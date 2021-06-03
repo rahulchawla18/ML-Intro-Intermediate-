@@ -1,2 +1,2 @@
 # ML-Intro-Intermediate-
-EXCERCISES(Kaggle)
+EXERCISE(Kaggle)
